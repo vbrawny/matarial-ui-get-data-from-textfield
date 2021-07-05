@@ -1,2 +1,4 @@
-# matarial-ui-get-data-from-textfield
-Created with CodeSandbox
+Contains explainations of using
+
+material UI textfield and how to get
+data from it.
